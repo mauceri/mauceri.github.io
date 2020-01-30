@@ -4,4 +4,4 @@ title: À propos
 permalink: /about/
 ---
 
-Je suis un vieil ingénieur sur le point de partir à la retraite, j'aime écrire des histoires et passion depuis des années et le Traitement Automatique de la Langue. Je ne croyais pas possibles les percées faites dans ce domaine depuis poins de dix ans, en particulier sur la traduction automatique, peut-être que le temps libre dont je vais pouvoir bénéficier d'ici trois mois me permettra de faire certaines choses dont j'ai toujours rêvé.
+Je suis un vieil ingénieur sur le point de partir à la retraite, j'aime écrire des histoires et ma passion depuis des années est le Traitement Automatique de la Langue. Je ne croyais pas possibles les percées faites dans ce domaine depuis moins de dix ans, en particulier sur la traduction automatique, peut-être que le temps libre dont je vais pouvoir bénéficier d'ici trois mois me permettra de faire certaines choses dont j'ai toujours rêvé.
