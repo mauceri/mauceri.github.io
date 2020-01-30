@@ -11,6 +11,7 @@ Il est possible d'utiliser des modèles multilingues comme ceux de XLM ou XNLG m
 Une récente amélioration des transformers baptisée reformer, semble pouvoir permettre de réduire drastiquement les coûts liés au pré-entrainement de ces architecture et ouvrir la voie à la créations de modèles Français.
 
 [Transformers](http://www.peterbloem.nl/blog/transformers), [Attention](http://nlp.seas.harvard.edu/2018/04/03/attention.html)  
+[CamemBERT](https://camembert-model.fr/#download)   
 [XLM](https://arxiv.org/pdf/1901.07291.pdf)  
 [XNLG](https://arxiv.org/pdf/1909.10481.pdf)  
 [CTRL](https://blog.einstein.ai/introducing-a-conditional-transformer-language-model-for-controllable-generation/)  
